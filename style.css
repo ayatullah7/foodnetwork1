@@ -1,5 +1,18 @@
 body{
     font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+.banner{
+    height: 300px;
+    background-image: url(images/shapes/Group\ 8450.png);
+    
+    height: 400px;
+    
+}
+.banner h2{
+    color:blueviolet;
 }
 
 h1{
@@ -8,17 +21,20 @@ h1{
 }
 .topbanner{
     /*height: 1000px;*/
-    /*border: 5px solid black;*/
+    background-image:url(images/shapes/Frame\ 58.jpg);
+   
 }
 .about{
    /* border: 5px solid black;*/
     background-image: url(images/shapes/7.png);
-    background-repeat: no-repeat;
+
+    
     
 }
-.reciepies{
-  /*  border: 5px solid black;*/
+.about img{
+    
 }
+
 .orange{
     color: orange;
 
@@ -29,8 +45,8 @@ h1{
 
 }
 .half{
-    width: 50%;
-    padding-bottom: 50px;
+    width: 40%;
+    /*padding-bottom: 50px;*/
     padding-left: 5%;
     padding-right: 5%;
     /*border: 5px solid red;*/
@@ -38,6 +54,9 @@ h1{
 }
 .third{
     width: 30%;
+    padding-left: 5%;
+    padding-right: 5%;
+   
 }
 
 .half img{
@@ -58,19 +77,32 @@ h1{
 }
 
 .reciepies{
-    text-align: center;
+   
+   /* margin-left: 5%;
+    margin-right: 5%;*/
+    padding-left: 5%;
+    padding-right: 5%;
+   
+  
 
 }
 .followers{
-    width: 100%;
+  
+   margin-left: 5%;
+    margin-right: 5%;
     padding-left: 5%;
     padding-right: 5%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px grey;
+
+   
 
 }
 
 .footer{
-    text-align: center;
+   
     background-color: #0B0D17;
+    height: 250px;
 }
 .footer p{
     color: white;
@@ -79,8 +111,15 @@ h1{
     color: #5B5B5B;
 }
 footer p{
-    padding-bottom: 50px;
+   /* padding-bottom: 50px;*/
+   
 }
 .h1tag{
     margin-bottom: 0;
+}
+
+.likes{
+    border-radius: 30px;
+    
+   
 }
