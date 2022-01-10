@@ -8,16 +8,16 @@ h1{
 }
 .topbanner{
     /*height: 1000px;*/
-    border: 5px solid black;
+    /*border: 5px solid black;*/
 }
 .about{
-    border: 5px solid black;
+   /* border: 5px solid black;*/
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     
 }
 .reciepies{
-    border: 5px solid black;
+  /*  border: 5px solid black;*/
 }
 .orange{
     color: orange;
@@ -33,7 +33,7 @@ h1{
     padding-bottom: 50px;
     padding-left: 5%;
     padding-right: 5%;
-    border: 5px solid red;
+    /*border: 5px solid red;*/
 
 }
 .third{
@@ -41,7 +41,7 @@ h1{
 }
 
 .half img{
-    width: 100%;
+    width: 80%;
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -62,7 +62,9 @@ h1{
 
 }
 .followers{
-    width: 30%;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
 
 }
 
@@ -79,4 +81,6 @@ h1{
 footer p{
     padding-bottom: 50px;
 }
-
+.h1tag{
+    margin-bottom: 0;
+}
