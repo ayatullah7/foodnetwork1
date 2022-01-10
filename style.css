@@ -33,6 +33,7 @@ h1{
     padding-bottom: 50px;
     padding-left: 5%;
     padding-right: 5%;
+    border: 5px solid red;
 
 }
 .third{
@@ -40,7 +41,7 @@ h1{
 }
 
 .half img{
-    width: 80%;
+    width: 100%;
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -54,12 +55,14 @@ h1{
     padding: 20px 30px;
     border-radius: 100px;
 
-
-
 }
 
 .reciepies{
     text-align: center;
+
+}
+.followers{
+    width: 30%;
 
 }
 
@@ -73,5 +76,7 @@ h1{
 #fotext{
     color: #5B5B5B;
 }
-
+footer p{
+    padding-bottom: 50px;
+}
 
